@@ -4,7 +4,6 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
-
 /**
  * struct dlistint_s - doubly linked list
  * @n: integer
